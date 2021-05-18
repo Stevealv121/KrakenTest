@@ -1,4 +1,0 @@
-#lang racket
-
-(define (test one)
-  (list one))
